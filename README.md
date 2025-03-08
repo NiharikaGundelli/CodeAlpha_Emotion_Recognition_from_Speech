@@ -1,7 +1,5 @@
 # Emotion Recognition from Speech using Deep Learning
 
-![Emotion Recognition](https://via.placeholder.com/800x400?text=Emotion+Recognition+Demo)
-
 ## Overview
 This project builds a **speech emotion recognition system** using deep learning. The model classifies audio clips into 8 emotions: **neutral, calm, happy, sad, angry, fearful, disgust, and surprised**. It uses the RAVDESS dataset and combines CNN-LSTM architecture with attention mechanisms for robust performance.
 
